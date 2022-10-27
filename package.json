@@ -1,7 +1,7 @@
 {
   "name": "esbuild-plugin-import-pattern",
   "description": "esbuild plugin that imports modules based on wildcard patterns.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "license": "MIT",
   "author": {
     "name": "Tim De Pauw",
