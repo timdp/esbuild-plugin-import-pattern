@@ -21,7 +21,7 @@
   ],
   "scripts": {
     "test": "eslint \"**/*.js\" && ava",
-    "format": "prettier-eslint --write \"$PWD/**/*.js\"",
+    "format": "prettier-eslint --write \"**/*.js\"",
     "prepare": "husky install",
     "postversion": "git push && git push --tags"
   },
