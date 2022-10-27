@@ -1,0 +1,5 @@
+"{*,.*}.{cjs,mjs,js,jsx,ts,tsx}":
+  - prettier-eslint --write
+
+"{*,.*}.{yml,yaml}":
+  - prettier --write --loglevel=warn
