@@ -29,15 +29,15 @@
     "fast-glob": "^3.2.12"
   },
   "devDependencies": {
-    "ava": "^5.0.1",
-    "esbuild": "^0.15.12",
-    "eslint": "^8.24.0",
+    "ava": "^5.1.0",
+    "esbuild": "^0.15.15",
+    "eslint": "^8.28.0",
     "eslint-config-standard": "^17.0.0",
     "eslint-plugin-import": "^2.26.0",
-    "eslint-plugin-n": "^15.3.0",
+    "eslint-plugin-n": "^15.5.1",
     "eslint-plugin-promise": "^6.0.1",
     "eslint-plugin-simple-import-sort": "^8.0.0",
-    "husky": "^8.0.1",
+    "husky": "^8.0.2",
     "lint-staged": "^13.0.3",
     "prettier-eslint-cli": "^7.1.0",
     "temp": "^0.9.4"
